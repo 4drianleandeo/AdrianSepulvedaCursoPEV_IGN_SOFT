@@ -1,1 +1,2 @@
-Soy Adrian Sepulveda y estoy creando una rama
+Soy Adrian Sepulveda y estoy en la Rama master
+y ahora estoy en la rama de Desarrollo
